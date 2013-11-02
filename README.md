@@ -11,8 +11,7 @@ For ACM Crash Course
 - Import hack into your Python code
 - Call sortByView(n) to get a list of n articles sorted in descending order by views
 - Ex:
-  <pre><code>
-  import hack
+  <pre><code>import hack
   print sortByView(50)
   </code></pre>
 
@@ -26,14 +25,14 @@ Nov. 2, 2013 - Version 1.0 release
 https://github.com/kku1993/Practice-Hack
 
 #FAQs
-Q1: What is the source of the articles?
-A1: http://www.theopencurriculum.org/
-
-Q2: Is this program monitored by the NSA?
-A2: Probably.
-
-Q3: Was any programmer or animal hurt during the production of this program?
-A3: No.
+Q1: What is the source of the articles? <br />
+A1: http://www.theopencurriculum.org/ <br />
+<br />
+Q2: Is this program monitored by the NSA? <br />
+A2: Probably. <br />
+<br />
+Q3: Was any programmer or animal hurt during the production of this program? <br />
+A3: No. <br />
 
 #Compatibility / Support
 - Compatible with Python 2.7+
